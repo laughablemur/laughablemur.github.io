@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://laughablemur.github.io/sitemap/sitemap.txt
